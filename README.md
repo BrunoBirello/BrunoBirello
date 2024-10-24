@@ -13,14 +13,18 @@
 Linguagens: <br>
   <img src=https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white>&nbsp;&nbsp;&nbsp;<img src=https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white>&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft&logoColor=white" alt="VBA"/>
 </p>
+
 <br>
+
 <p align="left">
 <img align="left" height="94px" width="94px" alt="Warpnet" src= https://usagif.com/wp-content/uploads/cat-typing-8.gif.webp>
 Ferramentas: <br>
   <img  src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter"/>
-&nbsp;&nbsp;&nbsp<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" alt="Power Apps"/>&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+&nbsp;&nbsp;&nbsp<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" alt="Power Apps"/><br><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
 </p>
+
 <br>
+
 <p align="left">
 📱 Entre em contato para mais informações: ⤵️
 </p>
