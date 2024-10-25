@@ -1,8 +1,8 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+# Bruno Birello <sup><img height="64px" width="64px" alt="Warpnet" align="right" src="https://media.tenor.com/drxH1lO9cfEAAAAi/dark-souls-bonfire.gif"></sup>
 
-### Bruno Birello
 
 <p align="left"> 
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px"         align="right">
   &lt;Data Science | Data Engineering | Data Analytics&gt;</strong>.<br>
   Estudante na área de dados, em busca da 1º oportunidade.
 </p>
@@ -31,7 +31,6 @@ Ferramentas: <br>
 
 [![card](https://github-readme-stats.vercel.app/api?username=BrunoBirello&theme=radical)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;
 [![BrunoBirello](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoBirello&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;
-<img height="94px" width="94px" alt="Warpnet" src = https://media.tenor.com/drxH1lO9cfEAAAAi/dark-souls-bonfire.gif>
 
 ### Experiência de trabalho
 
@@ -42,7 +41,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 **Apontador** \
 [**Manserv**](https://www.manserv.com.br/) • Full-time \
 Linguagens & Tecnologias: `Python`, `Power Bi`, `Office`, `VBA`, `PowerApps`, `Forms`,\
-Projetos em destaque: Simulador, Painel Bi
+Projetos em destaque: `Simulador`, `Painel Bi`, `Assistente logistico`
 <br/>
 
 Por favor, encontre-me no [LinkedIn]([https://www.linkedin.com/in/iuricode/](https://www.linkedin.com/in/bruno-birello-131a4026a/)) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
