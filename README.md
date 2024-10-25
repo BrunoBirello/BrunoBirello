@@ -1,5 +1,5 @@
-# Bruno Birello <sup><img height="64px" width="64px" alt="Warpnet" align="right" src="https://media.tenor.com/drxH1lO9cfEAAAAi/dark-souls-bonfire.gif"></sup>
-
+<h3 style="display: inline;">Bruno Birello&nbsp;<img height="32px" width="32px" alt="Warpnet" src="https://media.tenor.com/drxH1lO9cfEAAAAi/dark-souls-bonfire.gif" style="vertical-align: middle; margin-left: 10px;">
+</h3>
 
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px"         align="right">
